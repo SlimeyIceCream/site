@@ -1,2 +1,2 @@
 # wafflasy.github.io
- Website?
+ My personal webpage. Will probably link games or something here.
