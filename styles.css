@@ -1,3 +1,6 @@
 h1, h2, p, ul, li, h3, img {
     text-align: center;
   }
+  body {
+    background-color:pink;
+  }
