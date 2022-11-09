@@ -6,6 +6,7 @@ h1, h2, li, h3, img {
   }
   ul {
     text-align: center;
+    list-style-type: none
   }
   .info {
     width: 80%;
@@ -30,6 +31,12 @@ h1, h2, li, h3, img {
   max-width: 500px;
   overflow-wrap: break-word;
   margin: 0 auto;
+}
+.space1 {
+  margin-bottom: 0px;
+}
+.socials {
+  padding-right: 35px;
 }
 .para2 {
   text-align: center;
