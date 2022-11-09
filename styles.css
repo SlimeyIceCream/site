@@ -28,7 +28,7 @@ h1, h2, li, h3, img {
 .para {
   text-align: center;
   max-width: 500px;
-  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 .para2 {
   text-align: center;
