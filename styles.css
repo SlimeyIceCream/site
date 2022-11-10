@@ -1,6 +1,9 @@
 h1, h2, li, h3, img {
     text-align: center;
   }
+  li {
+    margin: 2px 0;
+  }
   body {
     font-family: sans-serif;
   }
