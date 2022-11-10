@@ -41,3 +41,8 @@ h1, h2, li, h3, img {
 .para2 {
   text-align: center;
 }
+.para3 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
