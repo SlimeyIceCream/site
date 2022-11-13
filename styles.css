@@ -1,8 +1,8 @@
 h1, h2, li, h3, img {
-    text-align: center;
+    font-size: 100%;
   }
   li {
-    
+    margin: 2px 0;
   }
   body {
     font-family: sans-serif;
