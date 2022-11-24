@@ -1,15 +1,27 @@
 h1, h2, li, h3, img {
    text-align: center;
   }
+  .imagerow{
+    display: inline-block;
+    max-width: 33%;
+    text-align: center;
+  }
+  sub {
+    text-align: center;
+    font-size: 11px;
+  }
   li {
     margin: 2px 0;
+  }
+  .div-center {
+    text-align: center;
   }
   body {
     font-family: sans-serif;
   }
   ul {
     text-align: center;
-    list-style-type: none
+    list-style-type: none;
   }
   .background {
     width: 80%;
@@ -52,17 +64,17 @@ h1, h2, li, h3, img {
 .image-border {
   background-color: lightpink;
   border: 5px solid lightpink;
-  padding: 10px
+  padding: 10px;
 }
 .name {
   background-color: lightpink;
   border: 2px solid lightpink;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 10px
+  padding: 10px;
 }
 .about {
   background-color: lightpink;
   border: 2px solid lightpink;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 10px
+  padding: 10px;
 }
