@@ -1,5 +1,8 @@
-h1, h2, li, h3, img {
+h1, h2, li, h3, img, iframe {
    text-align: center;
+  }
+  iframe {
+    margin-left: 25%;
   }
   .imagerow{
     display: inline-block;
