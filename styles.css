@@ -53,6 +53,9 @@ h1, h2, li, h3, img, iframe {
 .space1 {
   margin-bottom: 0px;
 }
+.newthingymajig {
+    padding-bottom: 5px;
+}
 .socials {
   padding-right: 35px;
 }
