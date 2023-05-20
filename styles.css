@@ -87,3 +87,8 @@ h1, h2, li, h3, img, iframe {
 .susssss {
     font-size: 5px;
 }
+.backimg {
+    background-image:url('cat.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
