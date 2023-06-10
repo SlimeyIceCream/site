@@ -20,8 +20,8 @@
             <a href="/Other_Pages/placeholder.html">Mm?</a>
             </p>
        </div>
-      <img class="pfp" src="/Images/profile.PNG"  width="400" height="400"/>
-      <div class="div-center maintextdown">
+      <img class="image-border" src="/Images/profile.PNG"  width="400" height="400"/>
+      <div class="div-center">
         <h1 class="name">I AM Madeline</h1>
       </div>
       <section>
@@ -32,19 +32,19 @@
           </p>
         </div>
         <p class="para3">
-            Huge fucking nerd who lives in North America, USA. I like DND, VR, fantasy books, HAM Radio and video games.<br>
-            My favorite season is winter and I was born on Dec22!<br> If you look closely, you might notice I like to program spaghetti code from time to time *shock*. I wonder what an indepth look into my pysche would be like. <br>
-            <br><br>Send site suggestions here: suggestionbox.god.fking.damn.it@gmail.com . I check it ~once a never<br><br><br>
+            Huge fucking nerd who lives in North America, USA. I like DND, VR, fantasy books and video games.<br>
+            My favorite season is winter and I was born on Dec22! I also really like cheese.<br> If you look closely, you might notice I like to program spaghetti code from time to time *shock*. I wonder what an indepth look into my pysche would be like. <br>And no I dont know where the picture is from
+            <br><br><br><br>Send site suggestions here: suggestionbox.god.fking.damn.it@gmail.com . I check it ~once a month<br><br><br><br>
             
           "You'll never be a real girl"<br> Idk, it was pretty real when I had sex with your dad last night. *laugh track*
         </p>
-        <ul class="down">
-          <li class="newthingymajig alittleleft">----------------------------------------------------------------------------------------------------------------------------</li>
+        <ul class="space1">
+          <li class="newthingymajig">----------------------------------------------</li>
           <li class="newthingymajig">- <a href="https://en.pronouns.page/@Maddii">She/Her Pronouns</a></li>
           <li class="newthingymajig">INSERT TEXT LATER</li>
           <li class="newthingymajig">- 4/10 Introvert</li>
           <!-- CHANGE     <li class="newthingymajig">- Favorite quote:<br> "The bar was so low it was practically a tripping hazard in hell, yet here you are, limbo dancing with the devil"</li> -->
-          <li class="newthingymajig">- Favorite Songs:<br>"Funny Feeling, JubyPhonic"<br>"Pomegranate lips, Derivakat"<br>"Fuck you I'm going underground, grand commander"<br></li>
+          <li class="newthingymajig">- Favorite Songs:<br>fairytales, Gabby Sophia<br>Funny Feeling, JubyPhonic<br>Pomegranate lips, Derivakat<br>Fuck you I'm going underground, grand commander<br>Still feel., half * alive</li>
         </ul>
         <!--<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/46jIQCTyo6gbqT8dDVUltO?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
       <div>
@@ -55,7 +55,7 @@
             <a class="imagerow" href="discord.gg/PpyXcKfj"><img src="/Images/discIcon.png" width="40" height="40"/></a>
             <a class="imagerow" rel="me" href="https://gaygeek.social/@Wafflasy"><img src="/Images/mastodonIcon.png" width="40" height="40"/></a>
             <P></P>
-            <sub class="clickable">Images are clickable</sub>
+            <sub>Images are clickable</sub>
         </div>
         <div class="div-center">
           <h3 class="about"><!--Projects I've worked on:--></h3>

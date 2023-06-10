@@ -1,94 +1,36 @@
-h1, h2, li, h3, img, iframe {
-   text-align: center;
-  }
-  iframe {
-    margin-left: 25%;
-  }
-  .imagerow{
-    display: inline-block;
-    max-width: 33%;
+body {
     text-align: center;
-  }
-  sub {
-    text-align: center;
-    font-size: 11px;
-  }
-  li {
-    margin: 2px 0;
-  }
-  .div-center {
-    text-align: center;
-  }
-  body {
-    font-family: sans-serif;
-  }
-  ul {
-    text-align: center;
-    list-style-type: none;
-  }
-  .background {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: pink;
-  }
-  hr {
-    background-color: pink;
-    border: pink;
-    height: 1px;
-  }
-  img {
-  display: block;
-  margin-top: 40px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 40px;
+   /* font-family: sans-serif; */
 }
-.para {
+.pfp {
+    float: left;
+    margin-left: 500px;
+    margin-right: -100px;
+    border-color: fuchsia;
+    border-width: 20px;
+    border: 25px solid rgb(65, 0, 0);
+}
+html {
+    background-color: rgb(40, 0, 0);
+    color: lavenderblush;
+}
+.down {
+    margin-top: 90px;
+}
+ul {
   text-align: center;
-  max-width: 500px;
-  overflow-wrap: break-word;
-  margin: 0 auto;
+  list-style-type: none;
 }
-.space1 {
-  margin-bottom: 0px;
+.clickable {
+    float: right;
+    margin-right: 870px;
+    margin-top: -50px;
+    font-size: 12px;
 }
-.newthingymajig {
-    padding-bottom: 5px;
+.maintextdown {
+    padding-top: 40px;
 }
-.socials {
-  padding-right: 35px;
-}
-.para2 {
-  text-align: center;
-}
-.para3 {
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
-.image-border {
-  background-color: lightpink;
-  border: 5px solid lightpink;
-  padding: 10px;
-}
-.name {
-  background-color: lightpink;
-  border: 2px solid lightpink;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 10px;
-}
-.about {
-  background-color: lightpink;
-  border: 2px solid lightpink;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  padding: 10px;
-}
-.susssss {
-    font-size: 5px;
-}
-.backimg {
-    background-image:url('cat.gif');
-    background-size: cover;
-    background-repeat: no-repeat;
+.alittleleft {
+    padding-right: 500px;
+    margin-right: 100px
 }
