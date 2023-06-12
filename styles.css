@@ -23,7 +23,7 @@ ul {
 }
 .clickable {
     float: right;
-    margin-right: 870px;
+    padding-right: 870px;
     margin-top: -50px;
     font-size: 12px;
 }
