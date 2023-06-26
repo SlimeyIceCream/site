@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css"></link>
+    <meta charset="utf-8"></meta>
+    <title>About Me</title>
+   </head>
+  <body {
+  }>
+<div>
+  <div class="background">
+    <!--Adds a pretty pink box above image-->
+    <hr/>
+   <main>
+       <div class="div-center name">
+            <p style="font-size: 30px;">
+            Pages:
+            <a href="/Other_Pages/about.html">Projects</a>
+            <a href="index.html">Home</a>
+            <a href="/Other_Pages/placeholder.html">Mm?</a>
+            </p>
+       </div>
+      <img class="grad pfp" src="/Images/profile.GIF"  width="400" height="400"/>
+      <div class="div-center maintextdown">
+        <h1 class="name">I AM Madeline</h1>
+      </div>
+      <section>
+        <div class="div-center">
+          <h2 class="about">About me</h2>
+          <p class="para">
+            
+          </p>
+        </div>
+        <p class="para3">
+            Huge fucking nerd who lives in North America, USA. I like DND, VR, fantasy books, HAM Radio and video games.<br>
+            My favorite season is winter and I was born on Dec22!<br> If you look closely, you might notice I like to program spaghetti code from time to time *shock*. I wonder what an indepth look into my pysche would be like. <br>
+            <br><br>Send site suggestions here: suggestions@wafflasy.boo . I check it ~once a never<br><br><br>
+            
+          "You'll never be a real girl"<br> Idk, it was pretty real when I had sex with your dad last night. *laugh track*
+        </p>
+        <ul class="down">
+            <li class="movelinething">------------------------------------------------------------------------------------------------------------------------------------------------------</li>
+          <li class="newthingymajig">- <a href="https://en.pronouns.page/@Maddii">She/Her Pronouns</a></li>
+          <li class="newthingymajig">INSERT TEXT LATER</li>
+          <li class="newthingymajig">- 4/10 Introvert</li>
+          <!-- CHANGE     <li class="newthingymajig">- Favorite quote:<br> "The bar was so low it was practically a tripping hazard in hell, yet here you are, limbo dancing with the devil"</li> -->
+          <li class="newthingymajig">- Favorite Songs:<br>"Funny Feeling, JubyPhonic"<br>"Pomegranate lips, Derivakat"<br>"Fuck you I'm going underground, grand commander"<br></li>
+        </ul>
+        <!--<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/46jIQCTyo6gbqT8dDVUltO?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+      <div>
+        <div class="div-center">
+            <h3 class="about">Socials</h3>
+            <a class="imagerow" href="https://twitter.com/Wafflasy"><img src="/Images/twitIcon.png" width="40" height="40"/></a>
+            <a class="imagerow" href="https://www.instagram.com/"><img src="/Images/instaIcon.png" width="40" height="40"/></a>
+            <a class="imagerow" href="discord.gg/PpyXcKfj"><img src="/Images/discIcon.png" width="40" height="40"/></a>
+            <a class="imagerow" rel="me" href="https://gaygeek.social/@Wafflasy"><img src="/Images/mastodonIcon.png" width="40" height="40"/></a>
+            <P></P>
+            <sub class="clickable">Images are clickable</sub>
+        </div>
+        <div class="div-center">
+          <h3 class="about"><!--Projects I've worked on:--></h3>
+          <p class="para2">
+            <!--Smallish <a href="https://legacy.curseforge.com/minecraft/mc-mods/ultimate-dirt-items-pack">Mc-creator mod</a>-->
+          </p>
+        </div>
+          <a class="leftyyy" href="Other_Pages/gay.html"><img src="/Images/littlegay.PNG" width="10" height="10"/></a>
+      </div>
+      </section>
+    </main>
+    <footer>
+      <p class="para2">
+        --------------------<br>
+        Designed For Desktop <3 <br>pfp is my irl frfr
+        <br>
+        <p class="para2 clickable2">I think I did a pretty good job on the spaghetti code for this site ngl.</p>
+      </p>
+    </footer>
+  </div> 
+</div>
+  </body>
+</html>
+<!--Add socials, twitter, insta, disc, etc-->

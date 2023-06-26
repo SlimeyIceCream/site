@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    font-family: ;
+    background-image: linear-gradient(to bottom right, rgb(65, 0, 0), rgb(5, 5, 5));
+   /* font-family: sans-serif; */ 
+}
+.pfp {
+    float: left;
+    margin-left: 500px;
+    margin-right: -3px;
+    border-color: fuchsia;
+    border-width: 20px;
+    border: 25px solid rgb(65, 0, 0);
+}
+html {
+    background-color: rgb(40, 0, 0);
+    color: lavenderblush;
+}
+.down {
+    margin-top: 90px;
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+.clickable {
+    float: right;
+    padding-right: 760px;
+    margin-top: -50px;
+    font-size: 12px;
+}
+.maintextdown {
+    padding-top: 50px;
+}
+.alittleleft {
+    padding-right: 400;
+    margin-right: 100px;
+}
+.clickable2 {
+    font-size: 10px;
+}
+.grad {
+  background-image: linear-gradient(black, black);
+}
+.movelinething {
+    
+}
+.background {
+    margin: auto;
+}
+.leftyyy {
+    margin-right: 2000px
+}
