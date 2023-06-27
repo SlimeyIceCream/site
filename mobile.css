@@ -39,6 +39,11 @@ body {
     margin-right: auto;
     display: block;
 }
+.socials {
+    margin-left: ;
+    display: subgrid;
+    padding-left: 65px;
+}
 .topbar {
     font-size: 170%;
     margin-top: -1000px
