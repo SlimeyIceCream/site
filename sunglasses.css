@@ -59,6 +59,15 @@
 .biography-full * {
     background-color: white;
 }
+.home * {
+    background-color: white;
+}
+.pronouns * {
+    background-color: white;
+}
+.biography * {
+    background-color: white;
+}
 * {
     background-color: rgb(255, 248, 255);\
 }
