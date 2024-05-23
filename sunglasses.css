@@ -12,6 +12,10 @@
     border: 5px solid pink;
     background-color: black;
     border-radius: 20px;
+    transition: 1s;
+}
+.profilepicture:hover {
+    transform: rotate(180deg);
 }
 .home {
     margin-left: auto;
@@ -30,6 +34,10 @@
     border: 5px solid pink;
     background-color: white;
     border-radius: 20px;
+    transition: transform 1s;
+}
+.pronouns:hover {
+    transform: rotate(-10deg);
 }
 .biography {
     margin-left: auto;
@@ -42,6 +50,10 @@
     border: 5px solid pink;
     background-color: white;
     border-radius: 20px;
+    transition: transform 2s;
+}
+.biography:hover {
+    transform: rotate(10deg);
 }
 .biography-full {
     margin-left: auto;
