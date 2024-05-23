@@ -8,7 +8,7 @@
             "type": "firefox",
             "request": "launch",
             "name": "Open socials.html",
-            "file": "/home/maddie/Documents/github/site/Other_Pages/socials.html"
+            "file": "C:/Users/althi/Desktop/Website Redesign/index.html"
         }
     ]
 }
