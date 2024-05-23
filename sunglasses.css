@@ -15,7 +15,21 @@
     transition: 1s;
 }
 .profilepicture:hover {
-    transform: rotate(180deg);
+    transform: rotate(180deg) scale(0.95);
+}
+.name {
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+    margin-top: auto;
+    margin-bottom: 10px;
+    border: 5px solid pink;
+    background-color: white;
+    border-radius: 20px;
+    transition: 3s;
+}
+.name:hover {
+    transform: scale(0.45) rotate(180deg);
 }
 .home {
     margin-left: auto;
@@ -25,6 +39,10 @@
     border: 5px solid pink;
     background-color: white;
     border-radius: 20px;
+    transition: 1s;
+}
+.home:hover {
+    transform: rotate(1deg);
 }
 .pronouns {
     margin-left: auto;
@@ -37,7 +55,7 @@
     transition: transform 1s;
 }
 .pronouns:hover {
-    transform: rotate(-10deg);
+    transform: rotate(-10deg) scale(0.95);
 }
 .biography {
     margin-left: auto;
@@ -68,18 +86,6 @@
     background-color: white;
     border-radius: 20px;
 }
-.biography-full * {
-    background-color: white;
-}
-.home * {
-    background-color: white;
-}
-.pronouns * {
-    background-color: white;
-}
-.biography * {
-    background-color: white;
-}
-* {
+body {
     background-color: rgb(255, 248, 255);\
 }
