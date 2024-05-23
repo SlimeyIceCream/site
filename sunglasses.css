@@ -1,6 +1,4 @@
-@media (max-width: 768px) {
 
-}
 .div-body {
     text-align: center;
     overflow-wrap: break-word;
@@ -8,7 +6,9 @@
 .profilepicture {
     margin-left: auto;
     margin-right: auto;
+    width: 340px;
     margin-top: auto;
+    margin-bottom: 15px;
     border: 5px solid pink;
     background-color: black;
     border-radius: 20px;
@@ -120,4 +120,23 @@
 }
 body {
     background-color: rgb(255, 248, 255);
+}
+@media (max-width: 480px) {
+    .home {
+        width: 230px;
+    }
+    .profilepicture {
+        width: 220px;
+        margin-top: auto;
+        
+    }
+    .biography {
+        width: 150px;
+    }
+    .links {
+        width: 150px;
+    }
+    .pronouns {
+        width: 210px;
+    }
 }
