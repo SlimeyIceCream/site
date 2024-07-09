@@ -28,6 +28,20 @@
     border-radius: 20px;
     transition: 3s;
 }
+.quote {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-top: auto;
+    margin-bottom: 10px;
+    border: 5px solid pink;
+    background-color: white;
+    border-radius: 20px;
+    transition: 3s;
+}
+.quote:hover {
+    transform: matrix(0.6, 0.5, 0.5, 1.5, 60, 10);
+}
 .name:hover {
     transform: scale(0.45) rotate(180deg);
 }
